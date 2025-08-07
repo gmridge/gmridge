@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmridge (Georgia Ridge)
-- 👀 I’m interested in continuing learning, fantasy books, surfing and eating.
-- 🌱 I’m currently learning at the Institute of Data - Software Engineering
-- 💞️ I’m looking to further my career in tech from IT Helpdesk
+- 👀 I’m interested in whittling, cooking, reading, surfing and sailing.
+- 🌱 I’m currently a Service Desk Analyst
+- 💞️ I’m looking to continue my career and knowledge
 - 📫 How to reach me: georgiamayridge97@gmail.com
 
 <!---
